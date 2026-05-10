@@ -1,2 +1,2 @@
 # C3-Project
-EDA Traffic Collision Assignemtn
+EDA Traffic Collision Assignment
